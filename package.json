@@ -21,10 +21,6 @@
     ],
     "verbose": true
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kfiroo/react-native-cached-image"
-  },
   "keywords": [
     "react-native",
     "cache",
@@ -32,10 +28,6 @@
   ],
   "author": "kfiroo <kfirgolan@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kfiroo/react-native-cached-image/issues"
-  },
-  "homepage": "https://github.com/kfiroo/react-native-cached-image",
   "files": [
     "index.js",
     "CachedImage.js",
